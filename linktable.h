@@ -17,10 +17,8 @@
  * Created by Gongxuan,2014/09/21
  *
  */
-
 #ifndef _LINK_TABLE_H_
 #define _LINK_TABLE_H_
-
 
 #define SUCCESS 0
 #define FAILURE (-1)
